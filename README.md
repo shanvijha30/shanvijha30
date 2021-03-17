@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shanvi Jha
-- 🌱 I’m currently learning python and shell
+﻿- 👋 Hi, I’m Shanvi Jha
+- 🌱 I’m currently learning Python and Shell
 - :computer: I’m looking to collaborate on python based projects
 
 <!---
