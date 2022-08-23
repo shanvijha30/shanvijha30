@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate with **people so that I can enhance my skills**
+- 👯 I’m looking to collaborate with **people so that I can enhance    my skills**
 
 - 💬 Ask me about **Open Source, Data Structures, Java**
 
