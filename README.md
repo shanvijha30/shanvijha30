@@ -5,10 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-Challenging yourself is the key to achieving your endeavours.Time fascinates me, and it’s exciting to know that being involved in technology allows me to take my career to the peak of technology.Technology is a passion of mine and I enjoy nothing more than learning the latest trends that technology is taking in order to work more efficiently and see progress and success.⚡
-
-
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate with **people so that I can enhance my skills**
