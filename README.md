@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shanvijha3012@gmail.com**
 
-- 📚 I love reading books and travelling 🌎
+- 📚 Food and Travel goes well for me 🌎
 
 - ✨ Be happy!!
 
