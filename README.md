@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **shanvijha3012@gmail.com**
 
-- 📚 Food and Travel goes well for me 🌎
-
 - ✨ Be happy!!
 
 <h3 align="left">Connect with me:</h3>
