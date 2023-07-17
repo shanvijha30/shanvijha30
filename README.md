@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Open Source, Data Structures, Java**
 
-- 📫 How to reach me **shanvijha3012@gmail.com**
+- 📫 How to reach me **shanvijha030@gmail.com**
 
 - ✨ Be happy!!
 
