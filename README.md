@@ -1,19 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shanvi Jha</h1>
+<h1 align="center">Shanvi Jha</h1>
 <h3 align="center">I am an Open Source and Machine Learning Enthusiast. I want to develop my skills in solving real world problems, grow and diversify myself with the upcoming technologies.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate with **people so that I can enhance my skills**
-
-- 💬 Ask me about **Open Source, Data Structures, Java**
-
-- 📫 How to reach me **shanvijha030@gmail.com**
-
-- ✨ Be happy!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
